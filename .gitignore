@@ -1,2 +1,8 @@
 venv
 excercise/1/venv
+excercise/1/.venv
+.python-version
+excercies/1/.python-version
+.venv
+.DS_Store
+excercise/.DS_Store
